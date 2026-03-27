@@ -1,4 +1,3 @@
-import { Flag } from "lucide-react";
 import React, { useState } from "react";
 import { FaFlag } from "react-icons/fa";
 import { toast } from "react-toastify";
@@ -13,11 +12,15 @@ const Card = ({
   const [isSelected, setIsSelected] = useState(false);
 
   const handleSelectedPlayers = () => {
+    if (selectedData.length >= 11) {
+      toast.error("Limit reached, You has selected 11 player already!");
+      return;
+    }
     const available = selectedData.find(
       (selected) => selected.player_id === player.player_id,
     );
     if (available) {
-      toast.warning('You has select it one time!')
+      toast.warning("You has select it one time!");
       return;
     } else {
       setSelectedData((prev) => [...prev, player]);

@@ -17,7 +17,7 @@ const SelectedPlayers = ({
     );
     setSelectedData(filtered);
     setCurrentBalance(currentBalance + selected.player_price);
-    toast('The player has Deleted Successfully')
+    toast("The player has Deleted Successfully");
   };
   return (
     <div>
@@ -44,7 +44,7 @@ const SelectedPlayers = ({
           ></SelectedPlayer>
         ))}
       </div>
-      <div className="p-2 border sm:inline-block mt-12 rounded-2xl bg-white/5 flex items-center justify-center">
+      <div className="p-2 border sm:inline-block mt-12 mb-2 rounded-2xl bg-white/5 flex items-center justify-center">
         <button
           className="px-5 py-3.5 bg-[#E7FE29] w-full rounded-xl font-bold cursor-pointer"
           onClick={() => setSelectedType("available")}

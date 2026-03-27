@@ -20,7 +20,7 @@ const Players = ({
           <h2 className="text-2xl font-bold">
             {selectedType === "available" && "Available Players"}
             {selectedType === "selected" &&
-              `Selected Player (${selectedData.length}/${players.length})`}
+              `Selected Player (${selectedData.length}/11)`}
           </h2>
         </div>
         <div>
