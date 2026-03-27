@@ -33,7 +33,9 @@ const Navbar = ({ currentBalance }) => {
   ));
   const [isShown, setIsShown] = useState(false);
   return (
-    <div className={`navbar flex items-center justify-between`}>
+    <div
+      className={`navbar flex items-center justify-between max-w-[1400px] w-[97%] md:w-[90%] lg:w-[80%] mx-auto`}
+    >
       <div className="">
         <a className="">
           <img src={logoImg} alt="" />

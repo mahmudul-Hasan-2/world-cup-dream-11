@@ -20,7 +20,7 @@ const SelectedPlayers = ({
     toast("The player has Deleted Successfully");
   };
   return (
-    <div>
+    <div className="max-w-[1400px] w-[97%] md:w-[90%] lg:w-[80%] mx-auto">
       {selectedData.length === 0 && (
         <div className="p-10 space-y-5 border  border-gray-200 rounded-2xl flex items-center justify-center flex-col text-center">
           <Info size={80} className="text-yellow-500 " />

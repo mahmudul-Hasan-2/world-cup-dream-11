@@ -4,7 +4,7 @@ import bannerLogo from "../../../assets/banner_logo.png";
 const Banner = ({ selectedType }) => {
   return (
     <div
-      className="space-y-6 my-6 px-2.5 py-16 text-center text-white flex items-center justify-center flex-col rounded-3xl"
+      className="space-y-6 my-6 px-2.5 py-16 text-center text-white flex items-center justify-center flex-col rounded-3xl max-w-[1400px] w-[97%] md:w-[90%] lg:w-[80%] mx-auto"
       id="banner"
     >
       <div>

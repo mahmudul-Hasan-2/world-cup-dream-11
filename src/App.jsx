@@ -4,6 +4,7 @@ import Banner from "./Components/Homepage/Banner/Banner";
 import Navbar from "./Components/Navbar/Navbar";
 import Players from "./Components/Players/Players";
 import { ToastContainer } from "react-toastify";
+import Footer from "./Components/Homepage/Footer/Footer";
 
 const loadPlayers = async () => {
   let res = await fetch("/players.json");
@@ -37,6 +38,7 @@ function App() {
           setCurrentBalance={setCurrentBalance}
         ></Players>
       </Suspense>
+      <Footer></Footer>
       <ToastContainer></ToastContainer>
     </>
   );

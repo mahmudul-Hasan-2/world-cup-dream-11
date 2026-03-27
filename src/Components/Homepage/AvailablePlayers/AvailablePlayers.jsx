@@ -9,7 +9,7 @@ const AvailablePlayers = ({
   selectedData,
 }) => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 max-w-[1400px] w-[97%] md:w-[90%] lg:w-[80%] mx-auto">
       {players.map((player) => (
         <Card
           player={player}
