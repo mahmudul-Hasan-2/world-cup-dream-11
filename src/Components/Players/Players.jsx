@@ -15,7 +15,7 @@ const Players = ({
   return (
     <div>
       {/* for contain the header */}
-      <div className="flex items-center flex-col sm:flex-row gap-2 justify-between mt-[88px] mb-[32px]">
+      <div className="flex items-center flex-col sm:flex-row gap-5 justify-between mt-[88px] mb-[32px]">
         <div>
           <h2 className="text-2xl font-bold">
             {selectedType === "available" && "Available Players"}

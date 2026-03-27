@@ -37,7 +37,7 @@
     "player_name": "Kumar Sangakkara",
     "player_image": "https://i.ibb.co.com/8nQd37j8/3941769.jpg",
     "player_country": "Sri Lanka",
-    "player_role": "Wicketkeeper Batsman",
+    "player_role": "Wicketkeeper",
     "player_rating": 9.6,
     "player_batting_style": "Left-hand bat",
     "player_bowling_style": "N/A",
@@ -70,7 +70,7 @@
     "player_name": "MS Dhoni",
     "player_image": "https://i.ibb.co.com/WN0JprSH/20251010110811-MS-Dhoni-In-CSK-BCCI.webp",
     "player_country": "India",
-    "player_role": "Wicketkeeper Batsman",
+    "player_role": "Wicketkeeper",
     "player_rating": 9.5,
     "player_batting_style": "Right-hand bat",
     "player_bowling_style": "Right-arm medium",
@@ -130,5 +130,38 @@
     "player_batting_style": "Right-hand bat",
     "player_bowling_style": "Right-arm medium",
     "player_price": 1450000
+  },
+  {
+    "player_id": 113,
+    "player_name": "Kane Williamson",
+    "player_image": "https://i.ibb.co.com/0Vs89SgY/images-5.jpg",
+    "player_country": "New Zealand",
+    "player_role": "Batsman",
+    "player_rating": 9.5,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Right-arm offbreak",
+    "player_price": 1300000
+  },
+  {
+    "player_id": 114,
+    "player_name": "Rashid Khan",
+    "player_image": "https://i.ibb.co.com/SwH9mQyM/images-6.jpg",
+    "player_country": "Afghanistan",
+    "player_role": "Bowler",
+    "player_rating": 9.6,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Leg-break googly",
+    "player_price": 1250000
+  },
+  {
+    "player_id": 115,
+    "player_name": "Babar Azam",
+    "player_image": "https://i.ibb.co.com/fGP6NdLR/412585.webp",
+    "player_country": "Pakistan",
+    "player_role": "Batsman",
+    "player_rating": 9.4,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Right-arm offbreak",
+    "player_price": 1350000
   }
 ]
