@@ -1,0 +1,134 @@
+[
+  {
+    "player_id": 101,
+    "player_name": "Shakib Al Hasan",
+    "player_image": "https://i.ibb.co.com/nNKJv7nj/11-500x500.png",
+    "player_country": "Bangladesh",
+    "player_role": "All-Rounder",
+    "player_rating": 9.5,
+    "player_batting_style": "Left-hand bat",
+    "player_bowling_style": "Slow left-arm orthodox",
+    "player_price": 1200000
+  },
+  {
+    "player_id": 102,
+    "player_name": "AB de Villiers",
+    "player_image": "https://i.ibb.co.com/Lhp4Ct0f/1-mt-SNo5-MIEX7tr-Mt-FVRzb-Tg.jpg",
+    "player_country": "South Africa",
+    "player_role": "Batsman",
+    "player_rating": 9.8,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Right-arm medium",
+    "player_price": 1500000
+  },
+  {
+    "player_id": 103,
+    "player_name": "Mitchell Starc",
+    "player_image": "https://i.ibb.co.com/MDY7TDZv/mitchell-starc-australia-world-cup-final-3283605.jpg",
+    "player_country": "Australia",
+    "player_role": "Bowler",
+    "player_rating": 9.7,
+    "player_batting_style": "Left-hand bat",
+    "player_bowling_style": "Left-arm fast",
+    "player_price": 1350000
+  },
+  {
+    "player_id": 104,
+    "player_name": "Kumar Sangakkara",
+    "player_image": "https://i.ibb.co.com/8nQd37j8/3941769.jpg",
+    "player_country": "Sri Lanka",
+    "player_role": "Wicketkeeper Batsman",
+    "player_rating": 9.6,
+    "player_batting_style": "Left-hand bat",
+    "player_bowling_style": "N/A",
+    "player_price": 1100000
+  },
+  {
+    "player_id": 105,
+    "player_name": "Brendon McCullum",
+    "player_image": "https://i.ibb.co.com/svWZ2k81/cricket-nzl-sri-78d285b0-ce5a-11e5-a2fe-c1a20f4c7a81.avif",
+    "player_country": "New Zealand",
+    "player_role": "Batsman",
+    "player_rating": 9.4,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Right-arm medium",
+    "player_price": 1250000
+  },
+  {
+    "player_id": 106,
+    "player_name": "Chris Gayle",
+    "player_image": "https://i.ibb.co.com/Ygymhxb/Whats-App-Image-2024-01-25-at-07-52-26.webp",
+    "player_country": "West Indies",
+    "player_role": "Batsman",
+    "player_rating": 9.2,
+    "player_batting_style": "Left-hand bat",
+    "player_bowling_style": "Right-arm offbreak",
+    "player_price": 1150000
+  },
+  {
+    "player_id": 107,
+    "player_name": "MS Dhoni",
+    "player_image": "https://i.ibb.co.com/WN0JprSH/20251010110811-MS-Dhoni-In-CSK-BCCI.webp",
+    "player_country": "India",
+    "player_role": "Wicketkeeper Batsman",
+    "player_rating": 9.5,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Right-arm medium",
+    "player_price": 1400000
+  },
+  {
+    "player_id": 108,
+    "player_name": "Trent Boult",
+    "player_image": "https://i.ibb.co.com/5WMzd6b9/Trent-Boult-bowling-action.jpg",
+    "player_country": "New Zealand",
+    "player_role": "Bowler",
+    "player_rating": 9.3,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Left-arm fast-medium",
+    "player_price": 1200000
+  },
+  {
+    "player_id": 109,
+    "player_name": "Glenn Maxwell",
+    "player_image": "https://i.ibb.co.com/JjKhJwv4/skysports-glenn-maxwell-australia-6352082.jpg",
+    "player_country": "Australia",
+    "player_role": "All-Rounder",
+    "player_rating": 9.1,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Right-arm offbreak",
+    "player_price": 1100000
+  },
+  {
+    "player_id": 110,
+    "player_name": "Mahmudullah Riyad",
+    "player_image": "https://i.ibb.co.com/jPZx1Zgn/cover-1741851579-Foto-Jet-3.jpg",
+    "player_country": "Bangladesh",
+    "player_role": "All-Rounder",
+    "player_rating": 8.9,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Right-arm offbreak",
+    "player_price": 950000
+  },
+  {
+    "player_id": 111,
+    "player_name": "Dale Steyn",
+    "player_image": "https://i.ibb.co.com/zWstY0BG/97df41e2050fde6e13720bfd25f27197.jpg",
+    "player_country": "South Africa",
+    "player_role": "Bowler",
+    "player_rating": 9.4,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Right-arm fast",
+    "player_price": 1300000
+  },
+  {
+    "player_id": 112,
+    "player_name": "Virat Kohli",
+    "player_image": "https://i.ibb.co.com/fzhND3Yd/imgae-1-Kohli-smiling-689593f776d0d.webp",
+    "player_country": "India",
+    "player_role": "Batsman",
+    "player_rating": 9.7,
+    "player_batting_style": "Right-hand bat",
+    "player_bowling_style": "Right-arm medium",
+    "player_price": 1450000
+  }
+]

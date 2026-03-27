@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@plugin 'daisyui';
+body {
+  max-width: 1400px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1025px) {
+  body {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 768px) {
+  body {
+    width: 97%;
+  }
+}
+
+#banner {
+  background: url("assets/bg-shadow.png"), #131313;
+  background-position: center, center;
+  background-repeat: no-repeat;
+  background-size: cover, cover;
+}
