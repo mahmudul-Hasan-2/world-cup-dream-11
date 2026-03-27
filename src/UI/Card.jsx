@@ -81,6 +81,7 @@ const Card = ({
             className="btn"
             disabled={isSelected}
             onClick={handleSelectedPlayers}
+            type="button"
           >
             {isSelected ? "Selected" : "Choose Player"}
           </button>

@@ -19,7 +19,7 @@ const SelectedPlayer = ({ selected, handleDeletePlayer }) => {
             : selected.player_batting_style}
         </div>
       </div>
-      <button className="cursor-pointer">
+      <button type="button" className="cursor-pointer">
         <Trash2Icon
           color="red"
           onClick={() => handleDeletePlayer(selected)}

@@ -48,8 +48,9 @@ const SelectedPlayers = ({
         <button
           className="px-5 py-3.5 bg-[#E7FE29] w-full rounded-xl font-bold cursor-pointer"
           onClick={() => setSelectedType("available")}
+          type="button"
         >
-          {selectedData.length > 0 ? "Add More Player" : "Add Player"}
+          {selectedData.length > 0 ? "Add More Player" : "Add First Player"}
         </button>
       </div>
     </div>
